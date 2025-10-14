@@ -1,3 +1,8 @@
-url: 'https://masdigitaltech.com/cmnaim'
-name: cmnaim
-description: ''
+title: My Jekyll Site
+description: Migrated from WordPress (export)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # update this to your GitHub Pages URL or custom domain
+author:
+  name: Your Name
+theme: minima
+plugins: []
