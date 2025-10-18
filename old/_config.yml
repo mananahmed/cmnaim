@@ -1,0 +1,10 @@
+title: "CM Naim"
+email: "you@example.com"
+description: "Website of Prof CM Naim"
+baseurl: ""
+url: "https://cmnaim.com"
+github_repo: "https://github.com/mananahmed/cmnaim"
+theme: "none"
+plugins: []
+paginate: 10
+permalink: "/:categories/:year/:month/:day/:title/"
