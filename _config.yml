@@ -1,8 +1,10 @@
-title: CNMAIN
-description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mananahmed.github.io" # update this to your GitHub Pages URL or custom domain
-author:
-  name:mananahmed
-theme: minima
+title: "CM Naim"
+email: "you@example.com"
+description: "Website of Prof CM Naim"
+baseurl: ""
+url: "https://cmnaim.com"
+github_repo: "https://github.com/mananahmed/cmnaim"
+theme: "none"
 plugins: []
+paginate: 10
+permalink: "/:categories/:year/:month/:day/:title/"

@@ -19,4 +19,4 @@ tags:
     - 'Qazi Azizuddin Ahmad'
 ---
 
-<div class="wp-block-file"><object aria-label="Embed of a-weeping-bust-in-datia." class="wp-block-file__embed" data="https://cmnaim.com/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf" style="width:100%;height:600px;" type="application/pdf"></object>[a-weeping-bust-in-datia](https://cmnaim.com/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf)[Download](https://cmnaim.com/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf)</div>
+<div class="wp-block-file"><object aria-label="a-weeping-bust-in-datia" class="wp-block-file__embed" data="https://masdigitaltech.com/cmnaim/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf" style="width:100%;height:510px" type="application/pdf"></object>[a-weeping-bust-in-datia](https://masdigitaltech.com/cmnaim/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf)[Download](https://masdigitaltech.com/cmnaim/wp-content/uploads/2022/04/a-weeping-bust-in-datia.pdf)</div>
