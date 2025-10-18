@@ -12,7 +12,8 @@ categories:
     - 'In the La La Land of the Urdu Media'
 ---
 
-<figure style="text-align:center;">
-  <img src="http://cmnaim.com/wp-content/uploads/2012/11/p11_01.jpg" alt="یوم ملالہ" width="800">
+<figure>
+  <img src="{{ '/assets/images/p11_01.jpg' | relative_url }}" alt="یوم ملالہ">
   <figcaption>یوم ملالہ</figcaption>
 </figure>
+
