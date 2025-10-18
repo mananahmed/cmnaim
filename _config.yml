@@ -1,8 +1,8 @@
-title: My Jekyll Site
-description: Migrated from WordPress (export)
+title: CNMAIN
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://username.github.io" # update this to your GitHub Pages URL or custom domain
+url: "https://mananahmed.github.io" # update this to your GitHub Pages URL or custom domain
 author:
-  name: Your Name
+  name:mananahmed
 theme: minima
 plugins: []
